@@ -1,0 +1,122 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  /* border: 2px solid black; */
+  
+}
+
+/* .logo{
+  
+  
+
+} */
+
+/* .navbuttons{
+  margin: 20px;
+  color: aqua;
+  border: 2px solid black;
+  
+
+} */
+
+.navbuttons a{
+  margin: 7px;
+  padding: 10px;
+color: black;
+
+}
+
+.navbuttons a:hover {
+background: #020024;
+background: linear-gradient(183deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(18, 69, 84, 1) 93%, rgba(14, 36, 71, 1) 95%, rgba(10, 30, 64, 1) 100%);
+color: white;        
+}
+
+.box1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  margin-top: 20px;
+  background-color: black;
+  
+    height: 300px;
+  width: 990px;
+ }
+
+ /*  
+.box1{
+  height: 300px;
+  width: 900px;
+  border: 2px solid black;
+} */
+
+
+
+.container{
+  margin: 20px;
+  display: flex;
+justify-content: space-between;
+}
+
+.box2{
+  height: 150px;
+  width: 270px;
+  background-color: black;
+
+  border: 2px solid black;
+}
+
+.box3{
+   height: 150px;
+  width: 270px;
+  border: 2px solid black;
+  background-color: black;
+}
+.box4{
+  background-color: black;
+   height: 150px;
+  width: 270px;
+  border: 2px solid black;
+}
+
+.paracontainer{
+  margin: 20px;
+  display: flex;
+justify-content: space-between;
+}
+
+
+.box5{
+  height: 115px;
+  width: 270px;
+
+
+  /* border: 2px solid black; */
+}
+
+.box6{
+   height: 115px;
+  width: 270px;
+  /* border: 2px solid black; */
+ 
+}
+.box7{
+
+   height: 115px;
+  width: 270px;
+  /* border: 2px solid black; */
+}
+
+.container2{
+  display: flex;
+  height: 60px;
+  border: 2px solid black;
+  background-color: black;
+  margin: 20px;
+}
+
+
+
